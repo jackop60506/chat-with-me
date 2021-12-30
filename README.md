@@ -1,2 +1,5 @@
-# chatting-room
-這是一個 side-project . 聊天室
+# 配對 聊天
+
+會員系統 + 配對 + 聊天室
+
+
